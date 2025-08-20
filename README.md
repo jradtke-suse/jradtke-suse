@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jradtke-suse
-- 👀 I’m interested in ... All Things SUSE: Linux, Hybrid-Cloud/Edge, Kubernetes, AI, Security, Storage, Virtualization 
+- 👋 Hi, I’m @jradtke-suse (James Radtke - a Solutions Architect @SUSE).  This is NOT an official Repo  
+- 👀 I’m interested in ... All Things SUSE: Linux, Hybrid-Cloud/Edge, Kubernetes, Observability, AI, Security, Storage, Virtualization 
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
@@ -7,11 +7,12 @@
 - My jradtke-suse Git Repo is a collection of stuff I use personally.  My HomeLab, interests (NVIDIA), etc..
 - What this Repo is not: a training program or curriculum.   There are many other folks already doing a great job at that.
 
-| Service - Username     | URL                                      |
-|:-----------------------|:-----------------------------------------|
-| GitHub - jradtke-suse  | https://github.com/jradtke-suse      |
-| Medium - @cloudxabide  | https://medium.com/@cloudxabide/     |
-| Credly - cloudxabide   | https://credly.com/users/cloudxabide |
+| Service - Username      | URL                                       |
+|:------------------------|:------------------------------------------|
+| GitHub - jradtke-suse   | https://github.com/jradtke-suse           |
+| LinkedIn - to-the-cloud | https://www.linkedin.com/in/to-the-cloud/ |
+| Medium - @cloudxabide   | https://medium.com/@cloudxabide/          |
+| Credly - cloudxabide    | https://credly.com/users/cloudxabide      |
 
 ![AWS Certified Cloud Practitioner](./images/aws-certified-cloud-practitioner-200x200.png)
 ![AWS Certified Solutions Architect Associate](./images/aws-certified-solutions-architect-associate-200x200.png)
@@ -36,7 +37,7 @@
 
 # Best Practices and suggestions
 * Do NOT use the "Root Account" for anything other than creating new IAM accounts, or managing IdentityCenter assets.
-* Use MFA.  Always. (where possible)
+* Use MFA.  Always. (* where possible)
 * Create and use a ["tagging strategy"](https://docs.aws.amazon.com/general/latest/gr/aws_tagging.html) of some sort.
 * (NEW) Identity Center is tremendous and quite powerful.  I recommend using it.
 
