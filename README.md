@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-- My jradtke-suse Git Repo is a collection of stuff I use personally.  My HomeLab, interests (NVIDIA), etc..
+- This is not an official SUSE repo.  My jradtke-suse Git Repo is a collection of stuff I use personally.  My HomeLab, interests (NVIDIA), etc..
 - What this Repo is not: a training program or curriculum.   There are many other folks already doing a great job at that.
 
 | Service - Username      | URL                                       |
