@@ -14,6 +14,10 @@
 | Medium - @cloudxabide   | https://medium.com/@cloudxabide/          |
 | Credly - cloudxabide    | https://credly.com/users/cloudxabide      |
 
+![SUSE Cloud Native](images/SUSE-CloudNative.png)
+![SUSE Edge](images/SUSE-Edge.png)
+![SUSE Multi-Linux Suite](images/SUSE-Multi-Linux-Suite.png)
+<BR>
 ![AWS Certified Cloud Practitioner](./images/aws-certified-cloud-practitioner-200x200.png)
 ![AWS Certified Solutions Architect Associate](./images/aws-certified-solutions-architect-associate-200x200.png)
 ![AWS Certified SysOps Administrator Associate](./images/aws-certified-sysops-associate-200x200.png)
