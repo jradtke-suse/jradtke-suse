@@ -4,9 +4,13 @@
   - Most things Cloud Native
   - Most things Kubernetes
   - Some things old school tech 
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently working on... 
+  - SUSE demo environment on-prem
+  - SUSE demo environment in AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+I have more random content in my [personal Github - cloudxabide](https://github.com/cloudxabide)
 
 - This is not an official SUSE repo.  My jradtke-suse Git Repo is a collection of stuff I use personally.  My HomeLab, interests (NVIDIA), etc..
 - What this Repo is not: a training program or curriculum.   There are many other folks already doing a great job at that.
