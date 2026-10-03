@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jradtke-rgs (James Radtke - a Solutions Architect @RancherGOV).  This is NOT an official Repo.
+- 👋 Hi, I’m @jradtke-suse (James Radtke - a Cloud Native Architect @SUSE).  This is NOT an official Repo.
 - 👀 I’m interested in ... 
-  - All Things RGS and SUSE: Linux, Hybrid-Cloud/Edge, Kubernetes, Observability, AI, Security, Storage, Virtualization.  
+  - All Things SUSE: Linux, Hybrid-Cloud/Edge, Kubernetes, Observability, AI, Security, Storage, Virtualization.  
   - Most things Cloud Native
   - Most things Kubernetes
   - Some things old school tech 
@@ -13,12 +13,12 @@
 
 I have more random content in my [personal Github - cloudxabide](https://github.com/cloudxabide)
 
-- This is not an official RGS or SUSE repo.  My jradtke-rgs Git Repo is a collection of stuff I use personally.  My HomeLab, interests (NVIDIA), etc..
+- This is not an official SUSE repo.  My jradtke-suse Git Repo is a collection of stuff I use personally.  My HomeLab, interests (NVIDIA), etc..
 - What this Repo is not: a training program or curriculum.   There are many other folks already doing a great job at that.
 
 | Service - Username      | URL                                       |
 |:------------------------|:------------------------------------------|
-| GitHub - jradtke-rgs    | https://github.com/jradtke-rgs            |
+| GitHub - jradtke-suse   | https://github.com/jradtke-suse            |
 | LinkedIn - to-the-cloud | https://www.linkedin.com/in/to-the-cloud/ |
 | Medium - @cloudxabide   | https://medium.com/@cloudxabide/          |
 | Credly - cloudxabide    | https://credly.com/users/cloudxabide      |
@@ -54,10 +54,9 @@ I have more random content in my [personal Github - cloudxabide](https://github.
 * Create and use a ["tagging strategy"](https://docs.aws.amazon.com/general/latest/gr/aws_tagging.html) of some sort.
 * (NEW) Identity Center is tremendous and quite powerful.  I recommend using it.
 
-[![jradtke-rgs's github stats](https://github-readme-stats.vercel.app/api?username=jradtke-rgs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![jradtke-suse's github stats](https://github-readme-stats.vercel.app/api?username=jradtke-suse&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
-jradtke-rgs/jradtke-rgs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jradtke-suse/jradtke-suse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
